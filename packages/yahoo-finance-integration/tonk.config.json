@@ -1,0 +1,6 @@
+ {
+  "name": "yahoo-finance-macro",
+  "schedule": {
+    "frequency": "30m" 
+  } 
+}
